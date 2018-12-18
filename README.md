@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/alexandertrussell/Abulon/_apis/build/status/matstusr.pipelines-java?branchName=master)](https://dev.azure.com/alexandertrussell/Abulon/_build/latest?definitionId=1?branchName=master)
 
 # Contributing
 
